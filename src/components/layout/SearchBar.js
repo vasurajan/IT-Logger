@@ -1,8 +1,9 @@
 import React from 'react'
 
+// search bar at the top of application for the user to search logs in the application
 const SearchBar = () => {
     return (
-        <nav style={{ marginBottom: "30px" }} className="brown">
+        <nav style={{ marginBottom: "30px" }} className="green">
             <div className="nav-wrapper">
                 <form>
                     <div className="input-field">

@@ -9,7 +9,7 @@ import './App.css';
 
 const App = () => {
   useEffect(() => {
-    // FOR Initializing materialize js
+    // For Initializing materialize js
     M.AutoInit();
   });
   return (
