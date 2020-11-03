@@ -1,4 +1,10 @@
+# Project Video Walkthrough
+
+![it-logger](https://user-images.githubusercontent.com/63305945/97956749-80b95f00-1dcf-11eb-8d59-1f996f0e0d54.gif)
+
+
 # Screenshots Walkthrough
+
 
 ![Screenshot (409)](https://user-images.githubusercontent.com/63305945/97956045-afced100-1dcd-11eb-9c10-4f3aa64c4b81.png)
 
